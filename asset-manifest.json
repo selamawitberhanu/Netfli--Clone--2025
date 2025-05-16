@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Netfli--Clone--2025/static/css/main.6830d504.css",
+    "main.js": "/Netfli--Clone--2025/static/js/main.822cac20.js",
+    "static/media/NetflixLogo.jpg": "/Netfli--Clone--2025/static/media/NetflixLogo.6c43f4f2140127a11e81.jpg",
+    "index.html": "/Netfli--Clone--2025/index.html",
+    "main.6830d504.css.map": "/Netfli--Clone--2025/static/css/main.6830d504.css.map",
+    "main.822cac20.js.map": "/Netfli--Clone--2025/static/js/main.822cac20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6830d504.css",
+    "static/js/main.822cac20.js"
+  ]
+}
